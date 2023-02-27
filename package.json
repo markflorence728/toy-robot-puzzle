@@ -1,0 +1,19 @@
+{
+  "name": "toy-robot-puzzle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/main.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node ./dist/main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.14.2",
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
